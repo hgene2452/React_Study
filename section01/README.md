@@ -47,3 +47,9 @@
 
 - 특정 조건을 만족했을 때에만 실행되는 코드를 작성하기 위한 문법.
 - `if`, `switch` 조건문.
+
+7. [반복문](https://github.com/hgene2452/React_Study/blob/main/section01/chapter10.js)
+
+- 어떠한 동작을 반복해서 수행할 수 있도록 만들어 주는 문법.
+- `break` : 조건문이 완료되지 않았음에도 반복문을 강제 종료.
+- `continue` : 특정 조건일 때 반복문을 건너뜀.
