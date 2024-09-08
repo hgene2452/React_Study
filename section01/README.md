@@ -1,6 +1,6 @@
 ## Javascript Basic
 
-1. 변수, 상수
+1. [변수, 상수](https://github.com/hgene2452/React_Study/blob/main/section01/chapter04.js)
 
 - 변수 :
   - 프로그램이 실행되는 동안 계속해서 값을 변경해가면서 저장가능한 저장소.
