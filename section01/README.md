@@ -9,7 +9,7 @@
   - 한번 저장된 값을 다시는 변경할 수 없는 저장소.
   - 상수 선언 예약어 `const`.
 
-2. [자료형(타입)]()
+2. [자료형(타입)](https://github.com/hgene2452/React_Study/blob/main/section01/chapter05.js)
 
 - 원시타입
   - Number : 정수, 실수, 음수, `Infinity`, `NaN`.
