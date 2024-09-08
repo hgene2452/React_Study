@@ -36,9 +36,14 @@
   - 비교 연산자(`===`,`!==`,`<`,`>`,`<=`,`>=`) : 두 개의 값을 서로 비교.
     - `===` : 값의 자료형까지 비교.
 
-4. [특수 연산자](https://github.com/hgene2452/React_Study/blob/main/section01/chapter08.js)
+5. [특수 연산자](https://github.com/hgene2452/React_Study/blob/main/section01/chapter08.js)
 
 - Javascript 특수 연산자
   - null 병합 연산자(`??`) : null, undefined가 아닌 값을 찾아내는 연산자.
   - typeof 연산자(`typeof`) : 값의 타입을 문자열로 반환하는 연산자.
   - 삼항 연산자(`op ? tv : fv`) : 항을 3개 사용하는 연산자 - 조건식을 이용해서 참, 거짓일 때의 값을 다르게 반환.
+
+6. [조건문](https://github.com/hgene2452/React_Study/blob/main/section01/chapter09.js)
+
+- 특정 조건을 만족했을 때에만 실행되는 코드를 작성하기 위한 문법.
+- `if`, `switch` 조건문.
